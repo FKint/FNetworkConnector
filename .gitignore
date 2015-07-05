@@ -1,0 +1,6 @@
+.project
+.settings
+bin
+debugapp.launch
+logtxt
+.classpath
